@@ -16,6 +16,7 @@ public class Interfaces {
         // TODO code application logic here
         int a =0;
         //jztp98z
+        int d=30;
     }
                                                                                 
 }
